@@ -1,0 +1,12 @@
+.card {
+  background-color: #f8f9fa;
+  border-radius: 0.6rem;
+  width: 40rem;
+  padding: 0.6rem 0.8rem;
+  color: #212529;
+}
+@media (max-width: 420px) {
+  .card {
+    width: 32rem;
+  }
+}
